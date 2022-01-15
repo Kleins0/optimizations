@@ -1,2 +1,1 @@
-# optimizations
-for kleins
+Optimizations for Kleins
